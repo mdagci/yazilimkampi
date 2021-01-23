@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodlamaIO", "KodlamaIO\KodlamaIO.csproj", "{3756D7B2-FA2E-4E2F-93D7-6A6D15B2B9B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KodlamaIO", "KodlamaIO\KodlamaIO.csproj", "{3756D7B2-FA2E-4E2F-93D7-6A6D15B2B9B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products", "Products\Products.csproj", "{99FF5756-D4A0-4E96-99C6-B69155DDE869}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManage", "ProductManage\ProductManage.csproj", "{F2B16930-6054-4E28-BD74-AE1B0745D67E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products", "Products\Products.csproj", "{99FF5756-D4A0-4E96-99C6-B69155DDE869}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{99FF5756-D4A0-4E96-99C6-B69155DDE869}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99FF5756-D4A0-4E96-99C6-B69155DDE869}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99FF5756-D4A0-4E96-99C6-B69155DDE869}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F2B16930-6054-4E28-BD74-AE1B0745D67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F2B16930-6054-4E28-BD74-AE1B0745D67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F2B16930-6054-4E28-BD74-AE1B0745D67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F2B16930-6054-4E28-BD74-AE1B0745D67E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
